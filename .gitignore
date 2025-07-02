@@ -1,0 +1,14 @@
+# Visual Studio build folders
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
